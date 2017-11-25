@@ -11,7 +11,7 @@ public class Main {
     private static User user;
 
     public static void main(String[] args) {
-        String username = "John";
+        String username = "Tom";
         String password = "123";
         int moneyRequired = 20;
         //TODO 用新的实现类实现接口并实例化对象
